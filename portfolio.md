@@ -3,7 +3,7 @@ layout: post
 title: Portfolio
 tags: portfolio
 math: true
-date: 2020-10-02 15:32 +0800
+date: 2022-10-02 15:32 +0800
 ---
 
 # Education
@@ -49,17 +49,17 @@ Duties and Responsibilities :
  - Led the whole team in the business development
  - Managed marketing plan and business plan
  - Project seeking, dealing with the customers, and making the decision
- - Experience in multi works as a project finder, a requirement collector, a moderator between customers and developers, 
-   a UX designer, a functional tester, and a user acceptance tester
- - Strongly obtained the domain knowledge, requirements, and implementation in E-commerce, the Management Systems of Hotel, Guest House, Hostel, 
-   Hospital, Pharmacy, restaurants, Cafe, Liquor Store, Convenience stores, Logistic & Delivery, Ticketing, Laundry, Job Seeking, Real Estate, 
-   Used mobiles, Pets Spa Booking, Car Selling, and other Customised Softwares
+ - Experience in multi works as a project finder, a requirement collector, a moderator between 
+   customers and developers, a UX designer, a functional tester, and a user acceptance tester
+ - Strongly obtained the domain knowledge, requirements, and implementation in E-commerce, 
+   the Management Systems of Hotel, Guest House, Hostel, Hospital, Pharmacy, restaurants, 
+   Cafe, Liquor Store, Convenience stores, Logistic & Delivery, Ticketing, Laundry, Job Seeking, 
+   Real Estate, Used mobiles, Pets Spa Booking, Car Selling, and other Customised Softwares
  - Monitored the project timeline and progress
  - Achieved over 30 software projects in 5 years
  - Managed team up to 20 employees
  - Managed the applications on Android Apps and iOS App Store
  - Report writing for the improvement of each employee
-
 ```
 ---
 
