@@ -34,6 +34,56 @@ date: 2020-10-02 15:32 +0800
 - Experienced managing on Google Play Console and Apple Appstore Connect
 ```
 ---
+
+
+# Professional Experience Record
+```
+Position          :      Product Owner / Product Manager
+Company           :      Trifinity Myanmar Software Company
+Date Employed     :      July 2017 ~ August 2022 (5 Years)
+Date Employed     :      July 2019 ~ July 2022 (3 Years contract with Japan Team in Trifinity)
+Location : Yangon, Myanmar
+
+Duties and Responsibilities :
+ - Learned the structure and development of a small business
+ - Led the whole team in the business development
+ - Managed marketing plan and business plan
+ - Project seeking, dealing with the customers, and making the decision
+ - Experience in multi works as a project finder, a requirement collector, a moderator between customers and developers, 
+   a UX designer, a functional tester, and a user acceptance tester
+ - Strongly obtained the domain knowledge, requirements, and implementation in E-commerce, the Management Systems of Hotel, Guest House, Hostel, 
+   Hospital, Pharmacy, restaurants, Cafe, Liquor Store, Convenience stores, Logistic & Delivery, Ticketing, Laundry, Job Seeking, Real Estate, 
+   Used mobiles, Pets Spa Booking, Car Selling, and other Customised Softwares
+ - Monitored the project timeline and progress
+ - Achieved over 30 software projects in 5 years
+ - Managed team up to 20 employees
+ - Managed the applications on Android Apps and iOS App Store
+ - Report writing for the improvement of each employee
+
+```
+---
+
+# Key Projects and Skills from the previous job
+ - Hospital Management System (Registration, OPD, IPD, Pharmacy, OT, Labs)
+ - E-commerce (Suppliers, Items, Customers, Orders, Inventory, Payment, Riders, Logistic)
+ - Food Delivery System (Suppliers, Restaurants & Menus, Customers, Orders, Riders, Logistic)
+    - Identifying business processes and requirements
+    - Analyzing the business problems
+    - Evaluating the results and applying them to the program
+    - Gathering and translating user requirements into functions
+    - Delivering the needs and cooperating with the development team
+    - Creating UX design for mobile
+    - Following up and motoring the scope of PM's timeline and method
+    - Test cases, manual testing, and user acceptance testing
+    - Providing user training and user manual book or video files
+    - Managing both platforms to upload applications
+    - Managing additional user requests and maintenance
+    - the following links are managed in the previous software company
+    - https://apps.apple.com/us/developer/aung-myothat/id1450620014
+    - https://play.google.com/store/apps/developer?id=Trifinity
+    - https://beautytipscollections.com/
+
+---
 # Portfolio
 
 ## HosMS (Role: Product Owner)
