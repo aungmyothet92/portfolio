@@ -1,8 +1,10 @@
-# Aung Myothet 
-
-## Email - [aungmyothet.trifinity@gmail.com](mailto:aungmyothet.trifinity@gmail.com)
-## LinkedIn - [linkedin.com/in/aungmyothet92/](linkedin.com/in/aungmyothet92/)
-
+---
+layout: post
+title: Portfolio
+tags: portfolio
+math: true
+date: 2020-10-02 15:32 +0800
+---
 
 # Education
 
@@ -13,6 +15,25 @@
 <dd>Cardiff, Wales, the United Kingdom</dd>
 </dl>
 
+
+---
+
+# Area of Special Competence
+
+```
+- Experienced Software project management in the Agile Method
+- Experienced small business and software analyst
+- Experienced marketing and business plan
+- Experienced in Quotation and Business Dealing
+- Strong Interpersonal skill with vendors
+- Experienced in data collecting and Implementation
+- Experienced UX sketches of mobile applications
+- Specialist in troubleshooting the software
+- Expert test cases, UAT, and blind testing
+- Specialist trainer and Manual book for software
+- Experienced managing on Google Play Console and Apple Appstore Connect
+```
+---
 # Portfolio
 
 ## HosMS (Role: Product Owner)

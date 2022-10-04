@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: AUNG MYO THET
+description: The first objective is to fill my global experience after having 5 years of experience in my local IT field. I understand that I a new here, however, I can learn rapidly and adaptable to new environments. I am willing to work with different colleges and happy to learn about their culture. Then, we can obtain the achievements and improvement of business.
+url: https://github.com/Katone77
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -28,15 +28,12 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Aung Myo Thet
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://www.linkedin.com/in/aungmyothet92/
+    - https://github.com/Katone77
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +51,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Aung Myo Thet
+  url: https://github.com/Katone77/
+  email: aungmyothet.trifinity@gmail.com
